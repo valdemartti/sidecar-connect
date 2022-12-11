@@ -6,11 +6,11 @@ I created this little script in order to use my Mac Mini on the go, with my iPad
 
 ## Prerequisites
 
-The script currently only works in macOS Ventura. When ran for the first time, the script requests permissions for Accessibility features.
+The script currently only works in macOS Ventura, and has been tested in `macOS Ventura 13.0.1`. When ran for the first time, the script requests permissions for Accessibility features.
 
 ## Installation
 
-You can get started by simply downloading the script from the "Packages" section.
+You can get started by simply downloading the script from the `Releases` section.
 
 To get the script to run automatically, open your `System Settings`, under `General` click `Login Items` and add the script to the `Open at Login` list.
 
